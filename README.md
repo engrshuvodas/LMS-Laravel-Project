@@ -32,6 +32,12 @@ Go to the project directory
     php artisan db:seed
 ```
 
+Migrate the project
+
+```bash
+  php artisan migrate
+```
+
 #### Login
 
 -   email = admin@example.com
